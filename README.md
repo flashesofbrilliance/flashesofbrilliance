@@ -4,4 +4,4 @@ Building **[ARCS](https://arcs.care)** — decision intelligence for people navi
 
 A question goes in. A bearing comes out: the sharpened question, the window, the conviction read — recorded as a receipt you can replay later. The system never decides for you. It renders the terrain.
 
-**Live:** [arcs.care](https://arcs.care) · [app.arcs.care](https://app.arcs.care)
+**Live:** [app.arcs.care](https://app.arcs.care) **Background:** [resume.arcs.care](https://resume.arcs.care)
