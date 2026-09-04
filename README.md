@@ -4,7 +4,7 @@ Building **[ARCS](https://arcs.care)** – a decision intelligence for people na
 
 A question goes in. A bearing comes out: the sharpened question, the window, the conviction read. It's recorded as a receipt you can replay later. The system never decides for you. It renders the terrain.
 
-**Live:** [app.arcs.care](https://app.arcs.care) | **CV:** [resume.arcs.care](https://resume.arcs.care) | **LinkedIn:** [linkedin.com/in/zharris](https://linkedin.com/in/zharris)
+**Live:** [app.arcs.care](https://app.arcs.care) | **About:** [zachharris.xyz](https://zachharris.xyz) | **LinkedIn:** [linkedin.com/in/zharris](https://linkedin.com/in/zharris)
 
 ### Open tools
 
